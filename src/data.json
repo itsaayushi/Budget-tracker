@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "Phone",
+      "Date": "03-03-2022",
+      "Price": 20000,
+      "Status": "expense"
+    },
+    {
+      "title": "salary",
+      "Date": "17-05-2022",
+      "Price": 150000,
+      "Status": "income"
+    },
+    {
+      "title": "Television",
+      "Date": "20-06-2022",
+      "Price": 20000,
+      "Status": "expense"
+    },
+    {
+      "title": "HeadPhones",
+      "Date": "15-02-2022",
+      "Price": 20000,
+      "Status": "expense"
+    }
+  ]
+}
